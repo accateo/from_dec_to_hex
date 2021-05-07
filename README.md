@@ -18,5 +18,5 @@ const hex2bin = require("@accateo/from_dec_to_hex");
 
 from_dec_to_hex(16);
 //=> 10
- 
+  
  
