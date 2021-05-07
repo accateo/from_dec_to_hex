@@ -1,21 +1,21 @@
-# @accateo/fromDecToHex
+# @accateo/from_dec_to_hex
 
-[![npm (scoped)](https://img.shields.io/npm/v/@accateo/fromDecToHex.svg)](https://www.npmjs.com/package/@accateo/fromDecToHex)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@accateo/fromDecToHex.svg)](https://www.npmjs.com/package/@accateo/fromDecToHex)
+[![npm (scoped)](https://img.shields.io/npm/v/@accateo/from_dec_to_hex.svg)](https://www.npmjs.com/package/@accateo/from_dec_to_hex)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@accateo/from_dec_to_hex.svg)](https://www.npmjs.com/package/@accateo/from_dec_to_hex)
 
 NPM Package to convert decimal number to hexadecimal
 
 ## Install
 
 ```
-$ npm install @accateo/fromDecToHex
+$ npm install @accateo/from_dec_to_hex
 ```
 
 ## Usage
 
 ```js
-const hex2bin = require("@accateo/fromDecToHex");
+const hex2bin = require("@accateo/from_dec_to_hex");
 
-fromDecToHex(16);
+from_dec_to_hex(16);
 //=> 10
  

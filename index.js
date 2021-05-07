@@ -1,4 +1,4 @@
-module.exports = function fromDecToHex(dec,type) {
+module.exports = function from_dec_to_hex(dec,type) {
   	//se numero grande -> altro calcolo
 	if(dec>256 || dec<-256){
 

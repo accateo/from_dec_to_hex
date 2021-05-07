@@ -1,12 +1,12 @@
 {
-  "name": "@accateo/fromDecToHex",
+  "name": "@accateo/from_dec_to_hex",
   "version": "1.0.0",
   "description": "NPM Package to convert decimal number to hexadecimal",
   "license": "MIT",
-  "repository": "accateo/fromDecToHex",
+  "repository": "accateo/from_dec_to_hex",
   "main": "index.js",
   "keywords": [
-    "fromDecToHex",
+    "from_dec_to_hex",
     "npm",
     "package",
     "decimal",
