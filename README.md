@@ -4,7 +4,7 @@
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@accateo/from_dec_to_hex.svg)](https://www.npmjs.com/package/@accateo/from_dec_to_hex)
 ![GitHub Repo stars](https://img.shields.io/github/stars/accateo/from_dec_to_hex?style=social)
 
-NPM Package to convert decimal number to hexadecimal
+NPM Package to convert decimal number (positive and negative) to hexadecimal
 
 ## Install
 
