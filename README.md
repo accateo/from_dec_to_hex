@@ -15,7 +15,7 @@ $ npm install @accateo/from_dec_to_hex
 ## Usage
 
 ```js
-const hex2bin = require("@accateo/from_dec_to_hex");
+const from_dec_to_hex = require("@accateo/from_dec_to_hex");
 
 from_dec_to_hex(16);
 //=> 10
